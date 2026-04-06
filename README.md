@@ -16,7 +16,7 @@ This project implements Neural Style Transfer using a pretrained VGG19 model to 
 - PIL
 
 ## Results
-The model successfully transforms input images into artistic versions while preserving content structure.
+The model successfully transforms input images into artistic styles while preserving content structure and color consistency.
 
 See:
 - Output_Samples.pdf for visual results
@@ -33,3 +33,6 @@ See:
 - style_transfer.py → main implementation
 - Neural_Style_Transfer_Project_Report.pdf → detailed explanation
 - Output_Samples.pdf → visual outputs
+
+## Author
+Zara Razzaq
