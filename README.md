@@ -3,7 +3,7 @@
 This project implements Neural Style Transfer using a pretrained VGG19 model to generate artistic images by combining the content of one image with the style of another.
 
 ## Sample Output
-![Output](sample.png)
+![Output](Sample.png)
 
 ## Features
 - Uses CNN (VGG19) for feature extraction
